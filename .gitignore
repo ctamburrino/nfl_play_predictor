@@ -1,4 +1,5 @@
 nfl_playbyplay_dataset_2009_2018.csv
+filtered_dataset.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
