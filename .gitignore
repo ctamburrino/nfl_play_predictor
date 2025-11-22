@@ -3,6 +3,11 @@ nfl_filtered.csv
 nfl_encoded_v1.csv
 nfl_encoded_v2.csv
 
+models/catboost_info/
+models/neuralNet_MLP_info/
+models/xgBoost_info/
+models/logisticregression_info/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
