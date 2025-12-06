@@ -1,3 +1,4 @@
+
 ## Problem
 American Football is a strategy based game where critical offensive and defensive plays can drastically change the outcome of the game. 
 Defensively, being able to predict your opponents plays and strategies can cause key stops to help limit the opponents opportunities to score. 
